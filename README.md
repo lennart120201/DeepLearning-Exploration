@@ -30,8 +30,14 @@ While researching about it we decided that a simple Text Classification is good 
 While implementing the BERT Text-Classification, which you can see in the BERT folder, we asked ourselves what would happen if the texts we were training it with would have been classified wrongly in the first place, because the texts are rather long and might simply not be categorized by someone into the right category. This let us to experiment on training the model with different levels of noise, i.e. with 0%, 20%, 40% and 50% noise rates.
 
 You can see the results of the accuracy measures on the train, validation and test data here:
-![Acc](https://user-images.githubusercontent.com/74551044/184555330-6b36054e-11f3-4788-9282-46b7f0314dfe.PNG)
-![Acc_val](https://user-images.githubusercontent.com/74551044/184555336-3e8dd989-f614-4c34-afed-a8a75a8a4b80.PNG)
+
+<p align="scaling">
+  <img width="820" height="490" src="https://user-images.githubusercontent.com/74551044/184555330-6b36054e-11f3-4788-9282-46b7f0314dfe.PNG">
+  <img width="820" height="490" src="https://user-images.githubusercontent.com/74551044/184555330-6b36054e-11f3-4788-9282-46b7f0314dfe.PNG">
+  <img width="100" height="50" src="https://user-images.githubusercontent.com/74551044/184555349-a6997b9c-d883-4030-9675-67aae3b57463.png">
+</p>
+
+
 ![test_Acc_rates](https://user-images.githubusercontent.com/74551044/184555349-a6997b9c-d883-4030-9675-67aae3b57463.png)
 
 
