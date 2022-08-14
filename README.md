@@ -14,7 +14,10 @@ We tried to cover some specific tasks and problems that we discovered while rese
  
  After that we wanted to implement a little example code of GANs which you can find in the GAN folder. More specifically we found that CycleGANs are interesting in terms of switching up images and their styles. We used a landscaping dataset from tensorflow to switch up summer and winter seasons.
  You can see a result here:
- ![win2sum](https://user-images.githubusercontent.com/74551044/184554607-aba4db91-3f89-474a-aeb0-3274b513a56b.PNG)
+ 
+<p align="center">
+  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/74551044/184554607-aba4db91-3f89-474a-aeb0-3274b513a56b.PNG)">
+</p>
 
 Note that training with the notebook takes about 9 hours in google colab.
 
