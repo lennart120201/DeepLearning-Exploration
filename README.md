@@ -16,7 +16,7 @@ We tried to cover some specific tasks and problems that we discovered while rese
  You can see a result here:
  
 <p align="center">
-  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/74551044/184554607-aba4db91-3f89-474a-aeb0-3274b513a56b.PNG)">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/74551044/184554607-aba4db91-3f89-474a-aeb0-3274b513a56b.PNG">
 </p>
 
 Note that training with the notebook takes about 9 hours in google colab.
