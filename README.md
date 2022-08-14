@@ -34,11 +34,8 @@ You can see the results of the accuracy measures on the train, validation and te
 <p align="scaling">
   <img width="820" height="490" src="https://user-images.githubusercontent.com/74551044/184555330-6b36054e-11f3-4788-9282-46b7f0314dfe.PNG">
   <img width="820" height="490" src="https://user-images.githubusercontent.com/74551044/184555330-6b36054e-11f3-4788-9282-46b7f0314dfe.PNG">
-  <img width="100" height="50" src="https://user-images.githubusercontent.com/74551044/184555349-a6997b9c-d883-4030-9675-67aae3b57463.png">
+  <img width="200" height="100" src="https://user-images.githubusercontent.com/74551044/184555349-a6997b9c-d883-4030-9675-67aae3b57463.png">
 </p>
-
-
-![test_Acc_rates](https://user-images.githubusercontent.com/74551044/184555349-a6997b9c-d883-4030-9675-67aae3b57463.png)
 
 
 # Audio Generation with GANs
