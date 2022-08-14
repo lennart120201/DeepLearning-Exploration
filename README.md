@@ -31,9 +31,9 @@ While implementing the BERT Text-Classification, which you can see in the BERT f
 
 You can see the results of the accuracy measures on the train, validation and test data here:
 
-<p Class="scaling">
-  <img width="820" height="300" src="https://user-images.githubusercontent.com/74551044/184555330-6b36054e-11f3-4788-9282-46b7f0314dfe.PNG">
-  <img width="820" height="300" src="https://user-images.githubusercontent.com/74551044/184555330-6b36054e-11f3-4788-9282-46b7f0314dfe.PNG">
+<p Class="scaling" align="center">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/74551044/184555330-6b36054e-11f3-4788-9282-46b7f0314dfe.PNG">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/74551044/184555330-6b36054e-11f3-4788-9282-46b7f0314dfe.PNG">
   <img width="200" height="130" src="https://user-images.githubusercontent.com/74551044/184555349-a6997b9c-d883-4030-9675-67aae3b57463.png">
 </p>
 
