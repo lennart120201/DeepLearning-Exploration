@@ -15,6 +15,7 @@ We tried to cover some specific tasks and problems that we discovered while rese
  After that we wanted to implement a little example code of GANs which you can find in the GAN folder. More specifically we found that CycleGANs are interesting in terms of switching up images and their styles. We used a landscaping dataset from tensorflow to switch up summer and winter seasons.
  You can see a result here:
  
+
 <p align="center">
   <img width="550" height="420" src="https://user-images.githubusercontent.com/74551044/184554607-aba4db91-3f89-474a-aeb0-3274b513a56b.PNG">
 </p>
@@ -31,11 +32,17 @@ While implementing the BERT Text-Classification, which you can see in the BERT f
 
 You can see the results of the accuracy measures on the train, validation and test data here:
 
+Training
 <p Class="scaling" align="center">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/74551044/184555330-6b36054e-11f3-4788-9282-46b7f0314dfe.PNG">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/74551044/184555330-6b36054e-11f3-4788-9282-46b7f0314dfe.PNG">
+  <img width="600" height="350" src="https://user-images.githubusercontent.com/74551044/184555330-6b36054e-11f3-4788-9282-46b7f0314dfe.PNG">
 </p> 
 
+Validation
+<p Class="scaling" align="center">
+  <img width="600" height="350" src="https://user-images.githubusercontent.com/74551044/184555330-6b36054e-11f3-4788-9282-46b7f0314dfe.PNG">
+</p> 
+
+Testing
 <p Class="scaling" align="center">
   <img width="200" height="130" src="https://user-images.githubusercontent.com/74551044/184555349-a6997b9c-d883-4030-9675-67aae3b57463.png">
 </p>
